@@ -1,0 +1,26 @@
+.register-input {
+	margin-top: 20%;
+	margin-left: auto;
+	margin-right: auto;
+
+	height: 300px;
+	width: 400px;
+}
+
+.register-button {
+	margin-left: 120px;
+	margin-right: auto;
+}
+
+.custom-label input[type="text"] {
+	height: 30px;
+	line-height: 30px;
+	font-size: 14px;
+
+}
+
+.custom-label input[type="password"] {
+	height: 30px;
+	line-height: 30px;
+	font-size: 14px;
+}
