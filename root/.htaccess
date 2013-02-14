@@ -1,8 +1,0 @@
-#
-# URL Redirects using Rewrites
-#
-#
-# Execute Python
-#
-Options +ExecCGI
-AddHandler cgi-script .py
